@@ -1,11 +1,31 @@
 # Machine_learning_Risk_Model_Prediction
 * Play with app via url : https://ricky-ml-risk-model-prediction.streamlit.app/
-* I recently developed a Loan and Credit Risk Analysis tool app that leverages machine learning to predict the probability of loan defaults, credit scores, and risk ratings (Poor, Average, Good, Excellent).
-# Machine Learning Highlights:
-* 🔍 This app has used the Model training call logistic regression to optimize the accuracy by using the Classification type.
-* 📊 Beside of that, I'm using the feature engineering for financial metrics to determine the VIF, Corr, IV to reduce the feature which unimpacted the data.
-* 🎯 Morevover, the Scalable prediction pipeline which help to preprocessing and one-hot encoding the categorical feature.
-* I have built using Streamlit and this app provides real-time insights based on user inputs like income, loan amount, and other financial details. It's been an exciting journey applying ML techniques to solve practical financial challenges!
-* I would love to hear your feedback and connect with others working on ML in finance. 🌟
+This repository contains a Loan and Credit Risk Analysis Tool built using machine learning and Streamlit to predict:
 
-* hashtag#MachineLearning hashtag#DataScience hashtag#Streamlit hashtag#CreditRiskAnalysis
+Probability of Loan Default
+Credit Score
+Risk Rating (Poor, Average, Good, Excellent)
+Key Features
+Machine Learning Model:
+
+Pre-trained logistic regression model optimized for accuracy.
+Predicts risk metrics based on input financial data.
+Data Preprocessing:
+
+Feature engineering (e.g., Loan-to-Income Ratio, Credit Utilization).
+Scalable preprocessing pipeline with one-hot encoding and scaling.
+User-Friendly Interface:
+
+Intuitive sliders and input fields for data entry.
+Real-time predictions displayed dynamically.
+Tech Stack
+Machine Learning: Scikit-learn, NumPy, Pandas
+Web Framework: Streamlit
+Model Persistence: Joblib
+How to Use
+Clone the repository.
+Install dependencies from requirements.txt.
+Run the app using streamlit run app.py.
+Feel free to explore and contribute! 🚀
+
+#MachineLearning #CreditRisk #Streamlit
