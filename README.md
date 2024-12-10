@@ -1,5 +1,5 @@
 # Machine_learning_Risk_Model_Prediction
-* url : https://ricky-ml-risk-model-prediction.streamlit.app/
+* Play with app via url : https://ricky-ml-risk-model-prediction.streamlit.app/
 * I recently developed a Loan and Credit Risk Analysis tool app that leverages machine learning to predict the probability of loan defaults, credit scores, and risk ratings (Poor, Average, Good, Excellent).
 # Machine Learning Highlights:
 * 🔍 This app has used the Model training call logistic regression to optimize the accuracy by using the Classification type.
@@ -8,4 +8,4 @@
 * I have built using Streamlit and this app provides real-time insights based on user inputs like income, loan amount, and other financial details. It's been an exciting journey applying ML techniques to solve practical financial challenges!
 * I would love to hear your feedback and connect with others working on ML in finance. 🌟
 
-# hashtag#MachineLearning hashtag#DataScience hashtag#Streamlit hashtag#CreditRiskAnalysis
+* hashtag#MachineLearning hashtag#DataScience hashtag#Streamlit hashtag#CreditRiskAnalysis
