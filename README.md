@@ -6,24 +6,24 @@
 * Credit Score
 * Risk Rating (Poor, Average, Good, Excellent)
 ### Key Features
-#### Machine Learning Model:
-* Pre-trained logistic regression model optimized for accuracy.
+#### 1.Machine Learning Model:
+* Training logistic regression model optimized for accuracy.
 * Predicts risk metrics based on input financial data.
 
-#### Data Preprocessing:
-* Feature engineering (e.g., Loan-to-Income Ratio, Credit Utilization).
+#### 2.Data Preprocessing:
+* Feature engineering : Determine VIF, Corr, WOE & IV .
 * Scalable preprocessing pipeline with one-hot encoding and scaling.
 
-####  User-Friendly Interface:
+####  3.User-Friendly Interface:
 * Intuitive sliders and input fields for data entry.
 * Real-time predictions displayed dynamically.
 
-#### Tech Stack
+#### 4.Tech Stack
 * Machine Learning: Scikit-learn, NumPy, Pandas
 * Web Framework: Streamlit
 * Model Persistence: Joblib
 
-#### How to Use
+#### 5.How to Use
 * Clone the repository.
 * Install dependencies from requirements.txt.
 * Run the app using streamlit run app.py.
